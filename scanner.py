@@ -6,7 +6,7 @@ import websockets
 # ==========================================
 # CONFIGURATION
 # ==========================================
-HELIUS_API_KEY = "YOUR_HELIUS_API_KEY_HERE"
+HELIUS_API_KEY = "f816d691-5f11-434b-828e-d47cdfbbaf1b"
 WSS_ENDPOINT = f"wss://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
 
 # Paste your Telegram credentials here
